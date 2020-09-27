@@ -1,0 +1,11 @@
+[settings]
+number = 1234
+seperator = :
+variables = <CARD>,<PIN>
+
+[lines]
+conversation = I would like to check the balance of <CARD>
+conversation1 = yes
+conversation2 = no
+conversation3 = yes
+conversation4 = I would like to check the balance of <CARD>
